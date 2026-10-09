@@ -1,3 +1,28 @@
+# Google Play Store Dashboard Using Power BI
+
+## Dashboard Screenshots
+
+### Dashboard 1: Overview
+
+![Google Play Store Dashboard Overview](Dashboard%20Screenshots/Dashboard%201%20(Overview).png)
+
+### Dashboard 2: Apps Rating Analysis
+
+![Apps Rating Analysis](Dashboard%20Screenshots/Dashboard%202%20(Apps%20Rating%20Analysis).png)
+
+### Dashboard 3: Installs & Popularity
+
+![Installs and Popularity Analysis](Dashboard%20Screenshots/Dashboard%203%20(Installs%20%26%20Popularity).png)
+
+### Dashboard 4: Pricing & Size Analysis
+
+![Pricing and Size Analysis](Dashboard%20Screenshots/Dashboard%204%20(Pricing%20%26%20Size%20Analysis).png)
+
+### Dashboard 5: Update Trends & Content Analysis
+
+![Update Trends and Content Analysis](Dashboard%20Screenshots/Dashboard%205%20(Update%20Trends%20%26%20Content%20Analysis).png)
+
+
 # Google Play Store App Insights Using PowerBI
 
 ## Project Overview
